@@ -1,14 +1,11 @@
-{
-    "name": "Hello World!",
-    "description": "Testing Lua",
-    "author": "",
-    "contact": "",
-    "version": "v1.0.0",
-    
-    "hooks": [
-    {
-        "hook_id": "lib/managers/dlcmanager",
-        "script_path": "dlc-unlocker.lua"
-    }
-    ]
+{		"name" :		"Doom soundtrack test by khan",
+		"description" : "Doom soundtrack test by khan",
+		"author" :		"",
+		"contact" :		"",
+		"version" :		"",
+	"persist_scripts" :
+	[
+		
+		{"global" : "Skin Unlocker", "script_path" : "Scripts/Skin Unlocker.lua"}
+	],
 }
